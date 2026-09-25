@@ -34,21 +34,24 @@ export const projects: Project[] = [
   {
     number: "01",
     type: "WebGL experience",
-    title: "AETHERION",
+    title: "THE WHITE REPO",
     description:
       "Premium automotive concept — an immersive, cinematic front-end with real-time 3D interaction and high-end UI.",
     tech: ["WebGL", "Three.js", "GSAP"],
     image: "/portfolio-preview.png",
-    imageAlt: "AETHERION — interactive background preview",
+    imageAlt: "THE WHITE REPO — interactive background preview",
     url: "https://the-white-repo.netlify.app"
   },
   {
     number: "02",
-    type: "AI landing concept",
-    title: "MEDUSA AI",
+    type: "freelance project",
+    title: "RAJ LAUNDRY",
     description:
       "Dr. Stone–inspired scroll storytelling with a cinematic AI-core reveal and a strong visual identity.",
     tech: ["React", "Framer Motion", "WebGL"],
+    image: "/raj-laundry-preview.png",
+    imageAlt: "RAJ LAUNDRY — interactive background preview",
+    url: "https://raj-laundry.netlify.app"
   },
 ];
 
