@@ -47,9 +47,9 @@ export const projects: Project[] = [
     type: "freelance project",
     title: "RAJ LAUNDRY",
     description:
-      "Dr. Stone–inspired scroll storytelling with a cinematic AI-core reveal and a strong visual identity.",
+      "ITS laundry service - a playful, interactive landing page with a custom webgl background and smooth animations.",
     tech: ["React", "Framer Motion", "WebGL"],
-    image: "/raj-laundry-preview.png",
+    image: "C:\\Users\\MS\\OneDrive\\Pictures\\Screenshots\\raj-laundry-preview.png",
     imageAlt: "RAJ LAUNDRY — interactive background preview",
     url: "https://raj-laundry.netlify.app"
   },
