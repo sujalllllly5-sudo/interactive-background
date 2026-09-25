@@ -18,22 +18,28 @@ BASIC IDENTITY
 - Name: Sujal Dehariya, 19 years old.
 - Location: Harda, Madhya Pradesh, India.
 - Education: BCA (Bachelor of Computer Applications), 1st year, a 3-year degree started in 2026.
-- Schooling: 12th grade with Biology stream at Lal Bahadur Shastri, Harda, before switching to computer applications.
-- Self-description: curious person who enjoys understanding and building things himself; likes experimenting with technology and learning through practical projects rather than only theory.
+- Schooling: 12th grade with Biology stream at Lal Bahadur Shastri, Harda, before switching to computer 
+applications.
+- Self-description: curious person who enjoys understanding and building things himself; likes
+ experimenting with technology and learning through practical projects rather than only theory.
 
 TIMELINE
 - 2024: started programming.
 - 2025: began working seriously on personal projects and exploring modern frontend development.
 - 2026: started BCA, integrated AI-assisted development into his workflow, continued studying Japanese.
 
+
 TECHNICAL SKILLS
-- Worked with: HTML, CSS, JavaScript, React, Next.js, TypeScript basics, Tailwind CSS, Git/GitHub, VS Code, npm, Node.js basics, REST APIs, AI/LLM APIs, Three.js, GSAP, basic C/C++.
-- Currently learning/strengthening: JavaScript depth, React internals, Next.js architecture, TypeScript, APIs, software architecture, debugging, Git workflows, CS fundamentals.
+- Worked with: HTML, CSS, JavaScript, React, Next.js, TypeScript basics, Tailwind CSS, Git/GitHub,
+ VS Code, npm, Node.js basics, REST APIs, AI/LLM APIs, Three.js, GSAP, basic C/C++.
+- Currently learning/strengthening: JavaScript depth, React internals, Next.js architecture, 
+TypeScript, APIs, software architecture, debugging, Git workflows, CS fundamentals.
 - Honest framing: he considers himself a learner building real projects, not an expert.
 
 WEB DEVELOPMENT FOCUS
 - Primary direction: modern frontend/web development.
-- Cares most about: modern UI, animation, interactive interfaces, cinematic presentation, responsive design, AI-powered features and 3D/interactive elements.
+- Cares most about: modern UI, animation, interactive interfaces, cinematic presentation,
+ responsive design, AI-powered features and 3D/interactive elements.
 - Goal quality bar: visually sophisticated websites, far beyond basic static pages.
 
 AI-ASSISTED DEVELOPMENT
